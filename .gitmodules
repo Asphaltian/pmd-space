@@ -1,0 +1,3 @@
+[submodule "lib/NDSModernRuntime"]
+	path = lib/NDSModernRuntime
+	url = https://github.com/Asphaltian/NDSModernRuntime

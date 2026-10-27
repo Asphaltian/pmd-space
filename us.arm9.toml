@@ -1,0 +1,19 @@
+[input]
+rom_file_path = "pmdsky.us.nds"
+symbols_file_path = "main.nef.xMAP"
+processor = "ARM9"
+output_func_path = "RecompiledFuncs/ARM9"
+returns_twice_funcs = ["OS_SaveContext"]
+
+function_sizes = [
+    { name = "sub_02017A00", size = 0x20 },
+    { name = "ov11_02313930", size = 0x9C },
+    { name = "sub_02017314", size = 0x278 },
+    { name = "ov11_023139CC", size = 0x7C },
+    { name = "sub_0200A2F4", size = 0x20 },
+]
+
+manual_funcs = [
+    { name = "sub_0200A314", section = "main", address = 0x0200A314, size = 0x30 },
+    { name = "sub_0200A344", section = "main", address = 0x0200A344, size = 0x3C },
+]

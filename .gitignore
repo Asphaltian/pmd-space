@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+*.user
+
+*.nds
+*.sav
+/*.xMAP
+
+/RecompiledFuncs/**/*.cs
+
+/publish/
+/portable.txt
+/saves/
+/settings.json
+/screenshots/

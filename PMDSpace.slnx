@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/lib/" />
+  <Folder Name="/lib/NDSModernRuntime/" />
+  <Folder Name="/lib/NDSModernRuntime/NDSRecomp/" />
+  <Folder Name="/lib/NDSModernRuntime/NDSRecomp/src/">
+    <Project Path="lib/NDSModernRuntime/NDSRecomp/src/NDSRecomp/NDSRecomp.csproj" />
+  </Folder>
+  <Folder Name="/lib/NDSModernRuntime/NDSRecomp/tests/">
+    <Project Path="lib/NDSModernRuntime/NDSRecomp/tests/NDSRecomp.Tests/NDSRecomp.Tests.csproj" />
+  </Folder>
+  <Folder Name="/lib/NDSModernRuntime/src/">
+    <Project Path="lib/NDSModernRuntime/src/LibRecomp/LibRecomp.csproj" />
+    <Project Path="lib/NDSModernRuntime/src/NDSRenderer/NDSRenderer.csproj" />
+    <Project Path="lib/NDSModernRuntime/src/NTRModern/NTRModern.csproj" />
+  </Folder>
+  <Folder Name="/lib/NDSModernRuntime/tests/">
+    <Project Path="lib/NDSModernRuntime/tests/LibRecomp.Tests/LibRecomp.Tests.csproj" />
+    <Project Path="lib/NDSModernRuntime/tests/NDSRenderer.Tests/NDSRenderer.Tests.csproj" />
+    <Project Path="lib/NDSModernRuntime/tests/NTRModern.Tests/NTRModern.Tests.csproj" />
+    <Project Path="lib/NDSModernRuntime/tests/Recompilation.Tests/Recompilation.Tests.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PMDSpace/PMDSpace.csproj" />
+  </Folder>
+  <Project Path="RecompiledFuncs/RecompiledFuncs.csproj" />
+</Solution>

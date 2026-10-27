@@ -1,0 +1,10 @@
+[input]
+rom_file_path = "pmdsky.us.nds"
+symbols_file_path = "arm7.nef.xMAP"
+processor = "ARM7"
+output_func_path = "RecompiledFuncs/ARM7"
+returns_twice_funcs = ["OS_SaveContext"]
+
+function_sizes = [
+    { name = "sub_03805E64", size = 0x230 },
+]
