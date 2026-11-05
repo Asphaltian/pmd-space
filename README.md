@@ -1,7 +1,7 @@
 # Pokémon Mystery Dungeon: Explorers of Space
 
 > [!WARNING]
-> This is VERY early days and even more behind [https://github.com/Asphaltian/pmd-green](Green Rescue Team). We're also using this project to test [NDS Modern Runtime](https://github.com/Asphaltian/NDSModernRuntime) and [NDSRecomp](https://github.com/Asphaltian/NDSRecomp), so expect bugs, and expect more shit to change without warning!
+> This is VERY early days and even more behind [Green Rescue Team](https://github.com/Asphaltian/pmd-green). We're also using this project to test [NDS Modern Runtime](https://github.com/Asphaltian/NDSModernRuntime) and [NDSRecomp](https://github.com/Asphaltian/NDSRecomp), so expect bugs, and expect more shit to change without warning!
 
 Explorers of Space is Pokémon Mystery Dungeon: Explorers of Sky, recompiled to run natively on PC.
 
